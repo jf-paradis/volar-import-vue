@@ -1,0 +1,14 @@
+{
+  "name": "demo",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "lint": "vue-tsc --noEmit"
+  },
+  "dependencies": {
+    "vue": "2.7.x"
+  },
+  "devDependencies": {
+    "vue-tsc": "1.0.x"
+  }
+}
